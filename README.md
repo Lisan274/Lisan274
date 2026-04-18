@@ -43,7 +43,7 @@ Especializado en el desarrollo de APIs, gestión de bases de datos SQL y NoSQL, 
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lisan274&show_icons=true&theme=default)
 
 ---
 
