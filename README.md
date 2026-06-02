@@ -45,5 +45,5 @@ Desarrollo software con una visión integral, considerando tanto la arquitectura
 
 ## 📫 Contacto
 
-- 📧 Email: lisan3@hotmail.com  
+- 📧 Email: lisan.suarez274@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/lisandro-alfredo-suarez-salinas-8a9485215  
